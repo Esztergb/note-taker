@@ -24,13 +24,12 @@
 2. **Clone**: Within GitBash, use the command "git clone paste link here"
 3. **NPM**: Use the command "npm init -y" to install Node Package Manager
 4. **Inquirer**: Use the command "npm install inquirer" to get npm's inquirer package
-5. **Jest**: Use Jest for a suite of unit tests.
 
 ## Usage 
 The application will be invoked by using the “node index” command.  
 Click on the screenshot below to start the **Screencastify video tutorial**:
 
-*[![screencastify video](./images/)](https://drive.google.com)*
+*![screencastify video](./Assets/11-express-homework-demo-01.png)*
   
 ## License
 This project is covered under the MIT licence.  

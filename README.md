@@ -45,6 +45,7 @@ Each shape class (Circle, Square, and Triangle) is tested for a render() method 
 ## Questions
 If you have any questions about this projects, please *email me: gubiscom@yahoo.com* directly.  
 Please visit my [GitHub Page](https://github.com/Esztergb/note-taker.git) to view this project.
+[Heroku Page](https://git.heroku.com/radiant-shore-40784.git)
 
 ##  Credits
 Thank you for tips and sugestions from Bootcamp instructors and classmates. I have used https://www.w3schools.com/ and https://www.stackoverflow.com to research information. Did not work with tutor this week. Codes were based on mini project mainly and some other modules from bootcamp.

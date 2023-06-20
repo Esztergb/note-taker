@@ -1,10 +1,10 @@
 const express = require("express");
 const router = express.Router();
 const fs = require ("fs");
-let notes = require("../db/db.json");
+const notes = require("../db/db.json"); //require json file located in /db
 const { v4: uuidv4 } = require("uuid");
 
-//GET /api/notes and return db.json
+//GET route  /api/notes and return response in json
 router.get('/notes', (req, res) => {
     res.json(notes);
 });

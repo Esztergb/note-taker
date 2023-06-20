@@ -1,5 +1,5 @@
 const express = require('express');
-const app = express();
+const app = express(); //create an 'app' variable set to the value of 'express()'
 const PORT = process.env.PORT || 3001;
 
 // Middleware for parsing JSON and urlencoded form data
@@ -15,6 +15,7 @@ const apiRouter = require("./routes/api");
 app.use(htmlRouter);
 app.use("/api", apiRouter);
 
+//have the app listen on port 3001 
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT}`)
 );

@@ -30,11 +30,10 @@ The application’s front end was provided. I have built the back end and connec
 1. **Copy Link**: Hit the "Code" button within this GitHub repo to copy link
 2. **Clone**: Within GitBash, use the command "git clone paste link here"
 3. **NPM**: Use the command "npm init -y" to install Node Package Manager
-4. **Inquirer**: Use the command "npm install inquirer" to get npm's inquirer package
 
 ## Usage 
 
-*![project image](./public/assets/images/11-express-homework-demo-02.png)*
+*![project image](./public/assets/images/Screenshot%202023-06-20%20at%209.56.16%20AM.png)*
   
 ## License
 This project is covered under the MIT licence.  

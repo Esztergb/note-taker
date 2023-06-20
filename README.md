@@ -29,7 +29,7 @@
 The application will be invoked by using the “node index” command.  
 Click on the screenshot below to start the **Screencastify video tutorial**:
 
-*![screencastify video](./Assets/11-express-homework-demo-01.png)*
+*![project image](./Assets/11-express-homework-demo-01.png)*
   
 ## License
 This project is covered under the MIT licence.  

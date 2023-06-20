@@ -1,9 +1,16 @@
 # <span style="color:gold">Note Takert</span>
  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en)
+[![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)](https://expressjs.com/)
+[![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat)](https://heroku.com)
+[![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=flat)](https://insomnia.rest/)
   
 ## Description 
 
+Modifed the starter code to create an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and saves and retrieves note data from a JSON file.
+
+The application’s front end was provided. I have built the back end and connected the two. The application is deployed to Heroku.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -40,7 +47,7 @@ Please follow Contributor Covenant Guidelines by clicking on the following link:
 *[Contributor Covenant](https://www.contributor-covenant.org/)*
 
 ## Tests
-Each shape class (Circle, Square, and Triangle) is tested for a render() method that returns a string for the corresponfing SVG file matching color and text requests. Type "npm test" in the command line and Jest will run all three tests.
+Run app
 
 ## Questions
 If you have any questions about this projects, please *email me: gubiscom@yahoo.com* directly.  
@@ -48,4 +55,4 @@ Please visit my [GitHub Page](https://github.com/Esztergb/note-taker.git) to vie
 [Heroku Page](https://git.heroku.com/radiant-shore-40784.git)
 
 ##  Credits
-Thank you for tips and sugestions from Bootcamp instructors and classmates. I have used https://www.w3schools.com/ and https://www.stackoverflow.com to research information. Did not work with tutor this week. Codes were based on mini project mainly and some other modules from bootcamp.
+Thank you for tips and sugestions from Bootcamp instructors and classmates. I have used https://www.w3schools.com/ and https://www.stackoverflow.com to research information. Did not work with tutor this week. Codes were based on mini project and some other modules from bootcamp. I received help from tutor Dru Sanchez as well. 

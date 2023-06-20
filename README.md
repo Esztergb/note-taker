@@ -33,10 +33,8 @@ The application’s front end was provided. I have built the back end and connec
 4. **Inquirer**: Use the command "npm install inquirer" to get npm's inquirer package
 
 ## Usage 
-The application will be invoked by using the “node index” command.  
-Click on the screenshot below to start the **Screencastify video tutorial**:
 
-*![project image](./Assets/11-express-homework-demo-01.png)*
+*![project image](./public/assets/images/11-express-homework-demo-02.png)*
   
 ## License
 This project is covered under the MIT licence.  

@@ -11,6 +11,7 @@ router.get("/notes", (req, res) => {
 
 // POST /api/notes (return new note, add to db.json, return to client, give note unique ID when saved)
 router.post("/notes", (req, res) => {
+   
   //submit title and text for request body
   const { title, text } = req.body;
 
